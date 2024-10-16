@@ -47,6 +47,10 @@ Whisper offers several different model sizes, including `tiny`, `basic`, `small`
 !whisper “/content/drive/MyDrive/folder_audio/name_audio.mp3” --model large --language German
 ```
 
+# Screenshot
+![Screenshot](whisper.png)
+
+
 
 
 
