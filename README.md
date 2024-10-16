@@ -17,7 +17,7 @@ Open a new Google Colab notebook and follow these steps to install Whisper and m
 ```sh
 !pip install git+https://github.com/openai/whisper.git
 ```
-## Monta Google Drive
+## Mount Google Drive
 
 ```python
 from google.colab import drive
